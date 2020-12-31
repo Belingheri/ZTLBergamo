@@ -5,7 +5,7 @@ $_SESSION["dove"]="contattami";
 <!DOCTYPE html>
 <html lang="it">
   <?php require("../templates/head.php"); ?>
-  <!--google pubblicità-->
+  <!--google pubblicitï¿½-->
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<script>
 				  (adsbygoogle = window.adsbygoogle || []).push({
@@ -13,7 +13,7 @@ $_SESSION["dove"]="contattami";
 					enable_page_level_ads: true
 				  });
 				</script>
-				<!--google pubblicità-->
+				<!--google pubblicitï¿½-->
 				<!--google reChapca-->
 				<script src='https://www.google.com/recaptcha/api.js'></script>
 				<!--google reChapca-->
@@ -85,7 +85,7 @@ $_SESSION["dove"]="contattami";
 				<p>Se preferisci scrivimi direttamente una mail <strong>info@ztlbergamo.com</strong></p>
 				<hr>
 				<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-				<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="it_IT" data-type="vertical" data-theme="dark" data-vanity="riccardo-belingheri-a57809155"><a class="LI-simple-link" href='https://it.linkedin.com/in/riccardo-belingheri-a57809155?trk=profile-badge'>Riccardo Belingheri</a></div>
+				<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="it_IT" data-type="vertical" data-theme="dark" data-vanity="riccardo-belingheri-a57809155"><a class="LI-simple-link" href='https://it.linkedin.com/in/riccardo-belingheri-a57809155?trk=profile-badge'> Belingheri Merda</a></div>
 			</div>
 		</div>
 	</div>
